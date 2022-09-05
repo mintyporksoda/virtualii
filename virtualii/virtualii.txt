@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+	<link rel="stylesheet" href="style.css">
+	<link rel="icon" type="image/x-icon" href="C:\Users\reise\OneDrive\Documents\website stuff\virtualii\favicon.ico">
+
+
+<img src= "C:\Users\reise\OneDrive\Documents\website stuff\virtualii\virtualii title.png">
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
+}
+</style>
+</head>
+<table>
+<table style="width:100%">
+    <tr>
+	<td>art</td>
+	<td>vol 1</td>
+	<td>vol 2</td>
+	<td>vol 3</td>
+	<td>vol 4</td>
+    </tr>
+    <tr>
+	<td>vol 5</td>
+	<td>vol 6</td>
+	<td>vol 7</td>
+	<td>vol 8</td>
+	<td>vol 9</td>
+</table>
+
+<body>
+
+<p>welcome to virtualii! I will be posting my webcomic here.</p>
+<p>some music while you read:</p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1KdBFDlO5VBhhpalW1BPPv?utm_source=generator" width="40%" height="380" frameBorder="0" allowfullscr"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<img src= "C:\Users\reise\OneDrive\Documents\website stuff\virtualii\images\comic1.png" width="1400" height="2072">
+
+<h2>like my art? wanna help me buy a car? consider buying my art or commissioning me! I make designs for my webcomic, patches, earrings, and lots of other goodies, chek it out here:</h1>
+</html>

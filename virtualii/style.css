@@ -1,0 +1,27 @@
+body {
+	font-family:"Lucida Console", "Courier New", monospace;
+	font-size: 14 px;
+	color: indigo;
+	background-color: rosybrown;
+}
+
+table, th, td {
+	border: 1px;
+	border-color: #66004a;
+}
+
+h1 {
+	margin-left: 530px;
+	margin-right: 600px;
+	font-weight: 700;
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 30px 4em;
+	color: #66004a;
+	background-color: #cd7f7f;
+}
+
+audio::-webkit-media-controls-play-button,
+     audio::-webkit-media-controls-panel {
+     background-color: #ad6b6b;
+     color: black;
+     }
